@@ -1,38 +1,38 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/island.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/island.jpeg",
     "description": "Island"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/lake.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/lake.jpeg",
     "description": "Lake"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/mountain.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/mountain.jpeg",
     "description": "Mountain"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/rain.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/rain.jpeg",
     "description": "Rain"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/rainbow.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/rainbow.jpeg",
     "description": "Rainbow"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/sea.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/sea.jpeg",
     "description": "Sea"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/snow.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/snow.jpeg",
     "description": "Snow"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/waterfall.jpeg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/waterfall.jpeg",
     "description": "Waterfall"
   },
   {
-    "url": "https://raw.githubusercontent.com/wee-digital/ExTest/master/Assets/weed.jpg",
+    "url": "https://raw.githubusercontent.com/wee-test/Assets/master/res/weed.jpg",
     "description": "Smoke weed everyday"
   }
 ]
